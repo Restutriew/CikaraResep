@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btn_mainMulai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent btnMulai = new Intent(MainActivity.this, ListResepActivity.class);
+                Intent btnMulai = new Intent(MainActivity.this, KategoriResepActivity.class);
                 startActivity(btnMulai);
             }
         });

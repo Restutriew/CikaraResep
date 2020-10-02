@@ -17,14 +17,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:fontFamily="@font/rage"
+            android:fontFamily="@font/breeze"
             android:text="Nama Resep"
-            android:textColor="@color/ijo"
+            android:textColor="@color/colorGray"
             android:textSize="20sp" />
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/ic_baseline_arrow_forward_ios_24" />
+<!--        <ImageView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/ic_baseline_arrow_forward_ios_24" />-->
     </LinearLayout>
 </LinearLayout>
